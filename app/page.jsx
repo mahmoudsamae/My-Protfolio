@@ -19,7 +19,7 @@ const page = () => {
 
   return (
     <>
-      <div className="bg-secondary px-2 sm:px-4 md:px-7 lg:px-10">
+      <div className="bg-secondary sm:px-2 md:px-5 lg:px-10">
         <Navbar language={language} setLanguage={setLanguage} />
         <Hero language={language} />
         <Skills language={language}/>

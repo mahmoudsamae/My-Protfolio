@@ -290,9 +290,9 @@ export const AboutMe_Data_EN = {
   careerGoals:
     "My goal is to pursue a Master's in Software Engineering in Germany, gain professional experience as a full-time frontend developer, and eventually work as a freelancer to build innovative digital solutions.",
   stats: {
-    YearsOfExperience: "5+",
-    NumberOfProjects: 3,
-    CertificatesEarned: 0,
+    YearsOfExperience: "2+",
+    NumberOfProjects: "12+",
+    CertificatesEarned: 6,
   },
 };
 
@@ -311,7 +311,7 @@ export const AboutMe_Data_DE = {
     "Ich strebe danach, innovative digitale Lösungen zu entwickeln und meine Kenntnisse kontinuierlich zu erweitern.",
   stats: {
     YearsOfExperience: "2+",
-    NumberOfProjects: "10+",
-    CertificatesEarned: 2,
+    NumberOfProjects: "12+",
+    CertificatesEarned: 6,
   },
 };
