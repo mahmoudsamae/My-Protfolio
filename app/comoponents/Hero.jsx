@@ -55,7 +55,7 @@ const Hero = ({ language }) => {
       <div className="flex gap-2 justify-center md:gap-3 lg:gap-5 z-[1]">
         <div className="w-[403px] bg-gradient-to-br from-blue-900 to-state-900 rounded-lg border border-blue-900 p-6">
           <div className="flex items-center justify-center">
-            <img src="/123.jpg" alt="img one" className="hero-img" />
+            <img src="/profile-1.jpg" alt="img one" className="hero-img" />
           </div>
 
           <div className="bg-cardbg rounded-md text-center mt-3 p-4">
@@ -80,6 +80,7 @@ const Hero = ({ language }) => {
               language === "EN" ? "Years Of Experience" : "Jahre Erfahrung"
             }`}
           />
+
 
           <div className="flex items-center gap-2 flex-wrap my-3">
             {skills.map((item) => (

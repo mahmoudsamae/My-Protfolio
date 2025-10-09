@@ -13,7 +13,7 @@ const AboutMe = ({language}) => {
       <div className="grid grid-cols-1 md:grid-cols-3 md:gap-4">
         <img
           className="w-full h-80 object-cover rounded-lg mb-4 md:mb-0"
-          src="/123.jpg"
+          src="/profile.jpg"
           alt="profile pic"
         />
 

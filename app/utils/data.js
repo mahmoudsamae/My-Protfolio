@@ -300,15 +300,15 @@ export const AboutMe_Data_EN = {
 // About Me data in Deutsch 
 export const AboutMe_Data_DE = {
   introduction:
-    "Ich bin ein leidenschaftlicher Full-Stack-Entwickler und IT-/Bürospezialist.",
+    "Ich bin Mahmud Al Hussen, ein detailorientierter IT- und Frontend-Entwickler mit umfassender Erfahrung im Aufbau moderner Webanwendungen. Ich bin leidenschaftlich an Technologie interessiert und nutze sie, um Arbeitsabläufe und Benutzererfahrungen zu verbessern.",
   background:
-    "Ich habe Erfahrung in modernen Webtechnologien und arbeite effizient in Teams.",
-  interests:
-    "Meine Interessen liegen in der Erstellung benutzerfreundlicher und performanter Webanwendungen.",
+    "Ich habe einen Bachelorabschluss in Angewandter Ingenieurwissenschaft (Computertechnologien) von der Tishreen-Universität in Syrien. Im Laufe der Jahre habe ich als Freelancer praktische Erfahrung in der Full-Stack-Webentwicklung gesammelt und lebe derzeit in Regensburg, Deutschland.",
   skills:
-    "Meine Fähigkeiten umfassen Frontend- und Backend-Entwicklung, Datenmanagement und Projektkoordination.",
+    "Ich bin versiert in Webentwicklungstechnologien wie React.js, Next.js, Node.js und MongoDB und bringe zusätzliche Stärken in Teamarbeit, Problemlösung sowie Büro- und IT-Administration mit.",
+  interests:
+    "Webentwicklung, Open-Source-Projekte, UI/UX-Design, Cloud-Technologien und kontinuierliches Lernen.",
   careerGoals:
-    "Ich strebe danach, innovative digitale Lösungen zu entwickeln und meine Kenntnisse kontinuierlich zu erweitern.",
+    "Mein Ziel ist es, in Deutschland einen Master in Software Engineering zu absolvieren, berufliche Erfahrung als Fulltime-Frontend-Entwickler zu sammeln und später als Freelancer innovative digitale Lösungen zu entwickeln.",
   stats: {
     YearsOfExperience: "2+",
     NumberOfProjects: "12+",
