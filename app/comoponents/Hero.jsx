@@ -40,8 +40,8 @@ const Hero = ({ language }) => {
           </button>
           <button className="primary-btn flex items-center gap-2">
             <a
-              href="/MyResume-DE-Lebenslauf.pdf"
-              download="Mahmud-Al-Hussen-CV"
+              href="/Lebenslauf.pdf"
+              download="Mahmud-Al-Hussen-Lebenslauf"
             >
               {language === "EN" ? "Download CV" : "Lebenslauf"}
             </a>
@@ -55,7 +55,7 @@ const Hero = ({ language }) => {
       <div className="flex gap-2 justify-center md:gap-3 lg:gap-5 z-[1]">
         <div className="w-[403px] bg-gradient-to-br from-blue-900 to-state-900 rounded-lg border border-blue-900 p-6">
           <div className="flex items-center justify-center">
-            <img src="/profile-1.jpg" alt="img one" className="hero-img" />
+            <img src="/profile_2.jpg" alt="img one" className="hero-img" />
           </div>
 
           <div className="bg-cardbg rounded-md text-center mt-3 p-4">
