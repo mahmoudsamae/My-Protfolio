@@ -7,6 +7,7 @@ import AboutMe from "./comoponents/AboutMe";
 import Navbar from "./comoponents/Navbar";
 import Contact from "./comoponents/Contact";
 import Footer from "./comoponents/Footer";
+import Projects from "./comoponents/Projects";
 
 const page = () => {
   const [language, setLanguage] = useState("EN");
@@ -23,6 +24,7 @@ const page = () => {
         <Navbar language={language} setLanguage={setLanguage} />
         <Hero language={language} />
         <Skills language={language}/>
+        <Projects language={language}/>
         <WorkExperience language={language}/>
         <AboutMe language={language}/>
         <Contact language={language}/>

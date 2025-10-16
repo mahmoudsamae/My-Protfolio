@@ -315,3 +315,53 @@ export const AboutMe_Data_DE = {
     CertificatesEarned: 6,
   },
 };
+
+// Projects Info in English
+export const Project_Data_EN = [
+  {
+    id: "01",
+    image: "/projectsImg/1.png",
+    description:
+      "A modern real estate booking platform where users can explore, view details, and book properties easily with a clean and responsive design.",
+    pojectURL: "https://sayzy-real-estate-booking-platform.vercel.app/",
+  },
+  {
+    id: "02",
+    image: "/projectsImg/2.png",
+    description:
+      "Modern e-commerce website with clean design and smooth shopping experience.",
+    pojectURL: "https://nexbuy-e-commerce-frontend.vercel.app/",
+  },
+  {
+    id: "03",
+    image: "/projectsImg/3.png",
+    description:
+      "A sleek task manager app allowing users to create, track, and categorize their tasks with ease.",
+    pojectURL: "https://task-manager-beryl-zeta.vercel.app/",
+  },
+];
+
+// Projects Info in Deutsch
+export const Project_Data_DE = [
+  {
+    id: "01",
+    image: "/projectsImg/1.png",
+    description:
+      "Eine moderne Immobilienplattform, auf der Nutzer Immobilien einfach entdecken, Details ansehen und Buchungen vornehmen können – mit einem klaren und responsiven Design.",
+    pojectURL: "https://sayzy-real-estate-booking-platform.vercel.app/",
+  },
+  {
+    id: "02",
+    image: "/projectsImg/2.png",
+    description:
+      "NexBuy ist eine moderne E-Commerce-Website, auf der Nutzer Produkte durchsuchen, Kollektionen ansehen und problemlos einkaufen können – mit einem klaren und responsiven Design.",
+    pojectURL: "https://nexbuy-e-commerce-frontend.vercel.app/",
+  },
+  {
+    id: "03",
+    image: "/projectsImg/3.png",
+    description:
+      "Eine moderne Aufgabenverwaltung, mit der Nutzer Aufgaben einfach erstellen, verfolgen und kategorisieren können.",
+    pojectURL: "https://task-manager-beryl-zeta.vercel.app/",
+  },
+];
